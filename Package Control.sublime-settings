@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"Babel",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Handlebars",
+		"Idiomatic-CSS-Comments-Snippets",
+		"Jade",
+		"JavaScriptNext - ES6 Syntax",
+		"Laravel Blade Highlighter",
+		"LESS",
+		"Package Control",
+		"Pretty JSON",
+		"SCSS",
+		"SFTP",
+		"SideBarEnhancements",
+		"SortBy",
+		"Stylus",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-jslint",
+		"SublimeLinter-contrib-pug-lint",
+		"SublimeLinter-jshint"
+	]
+}
